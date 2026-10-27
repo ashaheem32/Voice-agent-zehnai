@@ -1,0 +1,193 @@
+{
+  "name": "ZehnAI",
+  "website": "https://www.zehnai.tech/",
+  "source_url": "https://www.zehnai.tech/services/digital-marketing",
+  "verified_on": "2026-10-27",
+  "coverage": "Primary service categories and AI offerings verified in the official website navigation. Digital marketing scope verified on its service page. Detailed scope, integrations, platforms, prices, and timelines for other services require agency confirmation.",
+  "services": {
+    "social_media": {
+      "name": "Social media management and post boosting",
+      "aliases": [
+        "social media",
+        "instagram",
+        "facebook",
+        "reels",
+        "boosting",
+        "social media management"
+      ],
+      "description": "Content, community management, and post promotion."
+    },
+    "google_ads": {
+      "name": "Google Ads management",
+      "aliases": [
+        "google ads",
+        "google",
+        "search ads",
+        "youtube ads",
+        "display ads",
+        "ppc"
+      ],
+      "description": "Campaign planning, keywords, ads, tracking, and reporting."
+    },
+    "meta_ads": {
+      "name": "Meta advertising",
+      "aliases": [
+        "meta ads",
+        "meta",
+        "facebook ads",
+        "instagram ads"
+      ],
+      "description": "Facebook and Instagram campaign management."
+    },
+    "seo": {
+      "name": "SEO and content",
+      "aliases": [
+        "seo",
+        "search engine optimization",
+        "search engine optimisation",
+        "content",
+        "technical seo"
+      ],
+      "description": "Technical SEO, content, and on-page improvements."
+    },
+    "paid_campaigns": {
+      "name": "Coordinated paid campaigns",
+      "aliases": [
+        "paid campaigns",
+        "digital marketing",
+        "marketing",
+        "paid advertising",
+        "campaign management"
+      ],
+      "description": "Coordinated Google and Meta advertising."
+    },
+    "landing_pages": {
+      "name": "Campaign landing pages",
+      "aliases": [
+        "landing pages",
+        "landing page"
+      ],
+      "description": "Campaign landing pages can be scoped separately; confirm deliverables with the team."
+    },
+    "app_development": {
+      "name": "App development",
+      "aliases": [
+        "app development",
+        "apps",
+        "mobile app",
+        "mobile apps",
+        "mobile app development"
+      ],
+      "description": "App development. Platforms, features, and delivery scope need team confirmation."
+    },
+    "ai_solutions": {
+      "name": "AI solutions",
+      "aliases": [
+        "ai",
+        "ai solutions",
+        "artificial intelligence"
+      ],
+      "description": "AI services. Discuss your business goal with the team to agree the scope."
+    },
+    "web_development": {
+      "name": "Web development",
+      "aliases": [
+        "web development",
+        "website",
+        "websites",
+        "website development",
+        "website design"
+      ],
+      "description": "Web development. Project features, technology, and delivery need team confirmation."
+    },
+    "ui_ux_design": {
+      "name": "UI/UX design",
+      "aliases": [
+        "ui",
+        "ux",
+        "ui/ux",
+        "ui/ux design",
+        "design",
+        "user experience",
+        "user interface"
+      ],
+      "description": "UI/UX design. Deliverables and project scope need team confirmation."
+    },
+    "ai_assistants": {
+      "name": "AI copilots and assistants",
+      "aliases": [
+        "ai assistants",
+        "ai assistant",
+        "ai copilots",
+        "copilot",
+        "chatbot",
+        "chatbots"
+      ],
+      "description": "AI copilots and assistants. Supported channels and integrations need team confirmation."
+    },
+    "ai_calling_agents": {
+      "name": "AI calling agents",
+      "aliases": [
+        "ai calling agents",
+        "ai calling agent",
+        "calling agents",
+        "voice agent",
+        "voice agents",
+        "ai receptionist"
+      ],
+      "description": "AI calling agents. Call flows, languages, telephony, and integrations need team confirmation."
+    },
+    "workflow_automation": {
+      "name": "Workflow automation",
+      "aliases": [
+        "workflow automation",
+        "automation",
+        "automations",
+        "workflow",
+        "workflows"
+      ],
+      "description": "Workflow automation. Supported systems and integrations need team confirmation."
+    },
+    "ai_agent_development": {
+      "name": "AI agent development",
+      "aliases": [
+        "ai agent development",
+        "agent development",
+        "ai agents",
+        "ai agent"
+      ],
+      "description": "AI agent development. Tasks, permissions, and integrations need team confirmation."
+    },
+    "generative_ai": {
+      "name": "Generative AI development",
+      "aliases": [
+        "generative ai",
+        "generative ai development",
+        "genai",
+        "gen ai"
+      ],
+      "description": "Generative AI development. Use cases and implementation need team confirmation."
+    },
+    "ai_consulting": {
+      "name": "AI consulting",
+      "aliases": [
+        "ai consulting",
+        "ai consultancy",
+        "ai strategy"
+      ],
+      "description": "AI consulting. Engagement scope needs team confirmation."
+    }
+  },
+  "info": {
+    "pricing": "Pricing requires an agreed scope. Advertising spend is separate from agency fees. No fixed prices are verified.",
+    "process": "Discuss your goals and agree a scope with the team. Digital campaigns include planning, launch preparation, testing, and reviews.",
+    "contact": "The official site lists info@zehnai.tech and links to https://www.zehnai.tech/contact. Phone, address, and office hours are not verified."
+  },
+  "categories": [
+    "App development",
+    "AI solutions",
+    "Digital marketing",
+    "Web development",
+    "UI/UX design"
+  ]
+}
